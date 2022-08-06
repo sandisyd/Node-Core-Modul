@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.7.0",
+    "yargs": "^17.5.1"
+  },
+  "name": "node-core-modul",
+  "description": "Belajar node js",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandisyd/Node-Core-Modul.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandisyd/Node-Core-Modul/issues"
+  },
+  "homepage": "https://github.com/sandisyd/Node-Core-Modul#readme"
+}
